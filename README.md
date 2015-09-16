@@ -1,1 +1,0 @@
-# wrtining-in-ruby
